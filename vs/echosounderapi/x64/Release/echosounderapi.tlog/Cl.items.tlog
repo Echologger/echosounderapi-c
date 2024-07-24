@@ -1,0 +1,7 @@
+C:\REPOS\echosounderapi-c\modules\serial\src\impl\win.cc;C:\REPOS\echosounderapi-c\vs\echosounderapi\x64\Release\win.obj
+C:\REPOS\echosounderapi-c\modules\serial\src\serial.cc;C:\REPOS\echosounderapi-c\vs\echosounderapi\x64\Release\serial.obj
+C:\REPOS\echosounderapi-c\src\DualEchosounder.cpp;C:\REPOS\echosounderapi-c\vs\echosounderapi\x64\Release\DualEchosounder.obj
+C:\REPOS\echosounderapi-c\src\Echosounder.cpp;C:\REPOS\echosounderapi-c\vs\echosounderapi\x64\Release\Echosounder.obj
+C:\REPOS\echosounderapi-c\src\EchosounderCWrapper.cpp;C:\REPOS\echosounderapi-c\vs\echosounderapi\x64\Release\EchosounderCWrapper.obj
+C:\REPOS\echosounderapi-c\src\ISonar.cpp;C:\REPOS\echosounderapi-c\vs\echosounderapi\x64\Release\ISonar.obj
+C:\REPOS\echosounderapi-c\src\SingleEchosounder.cpp;C:\REPOS\echosounderapi-c\vs\echosounderapi\x64\Release\SingleEchosounder.obj
